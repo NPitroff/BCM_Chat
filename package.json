@@ -1,0 +1,22 @@
+{
+  "name": "bcm_chat",
+  "version": "1.0.0",
+  "description": "A web chat app",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NPitroff/BCM_Chat.git"
+  },
+  "author": "Nicolai Pitroff",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NPitroff/BCM_Chat/issues"
+  },
+  "homepage": "https://github.com/NPitroff/BCM_Chat#readme",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
