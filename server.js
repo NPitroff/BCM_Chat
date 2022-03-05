@@ -1,6 +1,9 @@
+// define express
 var express = require("express");
 
 var app = express();
+// define the dir name for the files
+app.use(express.static(__dirname));
 
 
 
